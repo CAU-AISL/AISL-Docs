@@ -2,14 +2,16 @@ site_name: CAU-AISL
 
 theme:
   name: 'rtd-dropdown'
-
-nav:
-  - Home: index.md
-  - intro: 
-    - '안녕' : 'hello.md'
-  - Study:
-    - Filght Dynamics:
-      - '2023.07.03.md'
-
+  language: ko
+  features:
+    - navigation.instant
+# nav:
+#   - Home: index.md
+#   - intro: 
+#     - '안녕' : 'hello.md'
+#   - Study:
+#     - Filght Dynamics:
+#       - '2023.07.03.md'
+#
         #use_directory_urls: false
 
