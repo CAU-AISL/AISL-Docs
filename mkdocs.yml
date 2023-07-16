@@ -6,6 +6,11 @@ theme:
   language: ko
   features:
     - navigation.instant
+
+
+
+
+# 기존에 일일히 
 # nav:
 #   - Home: index.md
 #   - intro: 
@@ -14,5 +19,4 @@ theme:
 #     - Filght Dynamics:
 #       - '2023.07.03.md'
 #
-        #use_directory_urls: false
-
+#use_directory_urls: false
