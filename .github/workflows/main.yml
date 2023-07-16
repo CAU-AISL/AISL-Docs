@@ -22,4 +22,6 @@ jobs:
           clear-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
+      - run: pip install mkdocs-rtd-dropdown
       - run: mkdocs gh-deploy --force
+

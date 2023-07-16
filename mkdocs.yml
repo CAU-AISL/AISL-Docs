@@ -1,5 +1,8 @@
 site_name: CAU-AISL
 
+theme:
+  name: 'rtd-dropdown'
+
 nav:
   - Home : index.md
   - intro : 
