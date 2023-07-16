@@ -11,5 +11,5 @@ nav:
     - Filght Dynamics:
       - '2023.07.03.md'
 
-use_directory_urls: false
+        #use_directory_urls: false
 
