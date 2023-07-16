@@ -1,0 +1,7 @@
+site_name: CAU-AISL-docs
+
+nav:
+  - Home : index.md
+  - intro : 
+    - '안녕' : 'hello.md'
+
