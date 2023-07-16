@@ -1,7 +1,7 @@
 site_name: CAU-AISL
 
 theme:
-  name: 'rtd-dropdown'
+  name: 'material'
   language: ko
   features:
     - navigation.instant
