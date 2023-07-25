@@ -14,6 +14,7 @@ cd (원하는 경로)
 git clone git@github.com:CAU-AISL/Docs.git
 ```
 
+
 #### < github desktop 사용자 >
 
 github desktop에서 clone 이라는 버튼을 눌러서 해당 레포지토리를 가져온다.
